@@ -57,18 +57,18 @@ a {
     color: white;
 }
 
-.text-for-section-1 {
+.text-for-section-header {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
 }
 
-.small-text-section-1 {
+.small-text-section-header {
     color: #e5e7eb;
     font-size: 18px;
 }
 
-.section-1-button {
+.section-header-button {
     padding: 4px 30px;
     background: #3882F6;
     color: white;
