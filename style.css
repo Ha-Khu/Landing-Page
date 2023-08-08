@@ -34,3 +34,10 @@ a {
     text-decoration: none;
     color: #e5e7eb;
 }
+
+.header-section {
+    background-color: #1f2937;
+    padding: 200px;
+    border: 3px solid red;
+}
+
