@@ -27,7 +27,7 @@ ul {
     display: flex;
     list-style-type: none;
     gap: 30px;
-    margin-right: 300px;
+    margin-right: 400px;
 }
 
 a {
@@ -51,8 +51,10 @@ a {
 }
 
 .img-container {
-    border: 3px solid red;
-
+    padding: 100px 160px;
+    margin-right: 400px;
+    background: rgb(170, 170, 170);
+    color: white;
 }
 
 .text-for-section-1 {
