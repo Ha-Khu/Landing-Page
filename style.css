@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* NAVIGATION */
+
 header {
     background: #1f2937;
     height: 50px;
@@ -35,6 +37,8 @@ a {
     text-decoration: none;
     color: #e5e7eb;
 }
+
+/* HEADER SECTION */
 
 .header-section {
     background-color: #1f2937;
