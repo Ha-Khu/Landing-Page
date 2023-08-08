@@ -84,7 +84,6 @@ a {
 /* MAIN SECTION 1 */
 
 .main-section-1 {
-    border: 3px solid red;
     padding-top: 20px;
     display: flex;
     flex-direction: column;
