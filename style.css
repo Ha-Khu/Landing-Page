@@ -6,9 +6,11 @@
 
 header {
     background: #1f2937;
+    height: 50px;
 }
 
 nav {
+    height: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -18,4 +20,17 @@ h1 {
     color: white;
     font-weight: bold;
     margin-left: 250px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    margin-right: 300px;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #e5e7eb;
 }
