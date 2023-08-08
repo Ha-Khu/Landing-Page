@@ -126,3 +126,25 @@ a {
 }
 
 /* MAIN SECTION 2 */
+
+.main-section-2 {
+    background: #e5e7eb;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.quoter {
+    color: #1f2937;
+    text-align: right;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
