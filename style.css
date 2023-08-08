@@ -187,3 +187,15 @@ a {
 }
 
 /* FOOTER */
+
+footer {
+    height: 80px;
+    background: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color: white;
+}
